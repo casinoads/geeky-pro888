@@ -1,6 +1,6 @@
 baseURL = "https://100r.netlify.app"
 disableLanguages = ["fr"]
-disqusShortname = "themefisher-template"
+disqusShortname = "100rueng"
 googleAnalytics = ""
 languageCode = "en-us"
 languageName = "En"
