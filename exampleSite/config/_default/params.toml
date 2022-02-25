@@ -57,10 +57,6 @@ icon = "fab fa-instagram"
 link = "#"
 title = "instagram"
 [[social]]
-icon = "fab fa-github"
-link = "#"
-title = "github"
-[[social]]
 icon = "fab fa-linkedin"
 link = "#"
 title = "linkedin"
