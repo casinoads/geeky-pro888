@@ -36,7 +36,7 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 enable = false
 expire_days = 2
 [preloader]
-enable = false
+enable = true
 preloader = ""
 [subscription]
 enable = false
