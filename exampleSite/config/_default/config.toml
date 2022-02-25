@@ -1,5 +1,5 @@
 baseURL = "https://100r.netlify.app"
-disableLanguages = []
+disableLanguages = ["de"]
 disqusShortname = "100rueng"
 googleAnalytics = ""
 languageCode = "en-us"
